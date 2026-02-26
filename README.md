@@ -182,7 +182,6 @@ Developer Push → GitHub Repo → Jenkins Trigger
 
 * AWS Load Balancer Controller with Ingress
 * GitOps integration (ArgoCD / Flux)
-* Observability stack (Prometheus + Grafana + Loki)
 * Canary / Blue-Green deployments
 * HPA & Karpenter autoscaling
 * External secrets integration
