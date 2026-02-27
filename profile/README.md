@@ -16,7 +16,7 @@ The platform was designed to solve a common scaling challenge:
 - GitHub organization with **team-based ownership**
 - Kubernetes namespace isolation for **multi-service tenancy**
 
-- ## 🎯 Problem Statement
+- ## Problem Statement
 
 In many growing engineering teams:
 
