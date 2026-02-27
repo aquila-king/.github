@@ -200,8 +200,7 @@ kubectl rollout status deployment/<service>
 ## Future Improvements
 
 - AWS Load Balancer Controller with Ingress  
-- GitOps integration (ArgoCD / Flux)   
-- HPA & Karpenter autoscaling  
+- GitOps integration (ArgoCD / Flux)     
 - Canary and Blue/Green deployments  
 - Service mesh (Istio / Linkerd)  
 - External secrets integration
