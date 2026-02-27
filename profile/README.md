@@ -87,7 +87,7 @@ Instead of duplicated Jenkinsfiles, all pipeline logic lives inside a **reusable
 - Enforces governance automatically  
 - Enables fast onboarding of new services
 
-- ## 🛡️ Namespace-Based Kubernetes Isolation
+- ## Namespace-Based Kubernetes Isolation
 
 Each service runs in its **own namespace**:
 
