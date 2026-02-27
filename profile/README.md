@@ -27,10 +27,10 @@ In many growing engineering teams:
 
 The goal was to design a platform-engineering-style solution that provides:
 
-- ✅ Standardized pipelines  
-- ✅ Team autonomy  
-- ✅ Secure multi-service deployment  
-- ✅ Scalable onboarding of new services
+- Standardized pipelines  
+- Team autonomy  
+- Secure multi-service deployment  
+- Scalable onboarding of new services
 
 - ##  Solution Architecture
 
@@ -104,7 +104,7 @@ Each service runs in its **own namespace**:
 - Security boundaries  
 - Supports multi-tenant cluster design
 
-- ## 📦 Repository Design Pattern
+- ## Repository Design Pattern
 
 Each microservice repository is intentionally **minimal**:
 
@@ -199,7 +199,7 @@ kubectl rollout status deployment/<service>
 - Service mesh (Istio / Linkerd)  
 - External secrets integration
 
-## 🌟 Why This Project Matters (Recruiter View)
+## Why This Project Matters (Recruiter View)
 
 This project demonstrates real **platform engineering competencies**:
 
