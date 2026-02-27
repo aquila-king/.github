@@ -1,4 +1,4 @@
-#  Case Study — Platform Engineering Microservices CI/CD System
+# Platform Engineering Microservices CI/CD System
 
 ##  Project Summary
 
