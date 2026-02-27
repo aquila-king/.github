@@ -200,16 +200,13 @@ kubectl rollout status deployment/<service>
 ## Future Improvements
 
 - AWS Load Balancer Controller with Ingress  
-- GitOps integration (ArgoCD / Flux)  
-- Prometheus & Grafana observability  
+- GitOps integration (ArgoCD / Flux)   
 - HPA & Karpenter autoscaling  
 - Canary and Blue/Green deployments  
 - Service mesh (Istio / Linkerd)  
 - External secrets integration
 
-## Why This Project Matters (Recruiter View)
 
-This project demonstrates real **platform engineering competencies**:
 
 ![WhatsApp Image 2026-02-27 at 09 13 09 (1)](https://github.com/user-attachments/assets/f5d8dbd6-3d04-4dde-89af-0fa7f2084368)
 
@@ -225,9 +222,13 @@ This project demonstrates real **platform engineering competencies**:
 - Cloud-native deployment strategy  
 - Organizational DevOps thinking  
 
-It shows the ability to move beyond pipelines into **platform architecture thinking**.
 
 ## Author
 
 **Aquila Kuunyangna**  
 DevOps Engineer | AWS Certified | Platform Engineering Enthusiast
+![WhatsApp Image 2026-02-27 at 09 13 08 (2)](https://github.com/user-attachments/assets/a872691a-b32b-49c9-9469-684731230f62)
+
+![WhatsApp Image 2026-02-27 at 09 13 07](https://github.com/user-attachments/assets/8c4250fc-3a3a-4860-8498-c1afaf94630d)
+![WhatsApp Image 2026-02-27 at 09 13 07 (1)](https://github.com/user-attachments/assets/733e8ae7-1928-4b98-8467-fbd48d93f136)![WhatsApp Image 2026-02-27 at 09 13 08](https://github.com/user-attachments/assets/a50f3d69-f209-4d26-838d-62909206a841)
+
