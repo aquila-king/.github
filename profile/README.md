@@ -195,8 +195,7 @@ kubectl rollout status deployment/<service>
 **Solution:** Namespace-based isolation
 
 ## Future Improvements
-
-- AWS Load Balancer Controller with Ingress  
+ 
 - GitOps integration (ArgoCD / Flux)     
 - Canary and Blue/Green deployments  
 - Service mesh (Istio / Linkerd)  
