@@ -34,14 +34,6 @@ The goal was to design a platform-engineering-style solution that provides:
 
 - ##  Solution Architecture
 
-- ![arch-1](https://github.com/user-attachments/assets/a0a2c397-ee04-4dd0-ac0a-6e504487520f)
-
-
-![arch-2](https://github.com/user-attachments/assets/e3010cdc-d703-4857-8ffe-42d71db9dd18)
-
-
-
-
 The platform introduces a **central Jenkins Shared Library** that encapsulates CI/CD logic while allowing each microservice repository to remain lightweight.
 
 ###  High-Level Flow
@@ -57,6 +49,11 @@ Docker Build & Push
 Amazon EKS Deployment
       ↓
 Kubernetes LoadBalancer Exposure
+
+ ![arch-1](https://github.com/user-attachments/assets/a0a2c397-ee04-4dd0-ac0a-6e504487520f)
+
+ ![arch-2](https://github.com/user-attachments/assets/e3010cdc-d703-4857-8ffe-42d71db9dd18)
+
 
 ##  Platform Design Decisions
 
