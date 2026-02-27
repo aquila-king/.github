@@ -131,7 +131,7 @@ deployMicroservice(...)
 Each service is packaged as a **Docker image** and pushed to Docker Hub.
 
 **Example:**
-```bash
+bash
 docker build -t your-dockerhub-username/order-service:1.0.0 .
 docker push your-dockerhub-username/order-service:1.0.0
 
