@@ -34,6 +34,9 @@ The goal was to design a platform-engineering-style solution that provides:
 
 - ##  Solution Architecture
 
+- ![arch-1](https://github.com/user-attachments/assets/a0a2c397-ee04-4dd0-ac0a-6e504487520f)
+
+
 The platform introduces a **central Jenkins Shared Library** that encapsulates CI/CD logic while allowing each microservice repository to remain lightweight.
 
 ###  High-Level Flow
