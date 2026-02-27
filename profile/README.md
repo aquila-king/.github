@@ -37,6 +37,11 @@ The goal was to design a platform-engineering-style solution that provides:
 - ![arch-1](https://github.com/user-attachments/assets/a0a2c397-ee04-4dd0-ac0a-6e504487520f)
 
 
+![arch-2](https://github.com/user-attachments/assets/e3010cdc-d703-4857-8ffe-42d71db9dd18)
+
+
+
+
 The platform introduces a **central Jenkins Shared Library** that encapsulates CI/CD logic while allowing each microservice repository to remain lightweight.
 
 ###  High-Level Flow
@@ -205,6 +210,13 @@ kubectl rollout status deployment/<service>
 ## Why This Project Matters (Recruiter View)
 
 This project demonstrates real **platform engineering competencies**:
+
+![WhatsApp Image 2026-02-27 at 09 13 09 (1)](https://github.com/user-attachments/assets/f5d8dbd6-3d04-4dde-89af-0fa7f2084368)
+
+![WhatsApp Image 2026-02-27 at 09 13 09 (2)](https://github.com/user-attachments/assets/e6d47d78-fa1f-4c2a-abfa-da819015048c)
+
+![WhatsApp Image 2026-02-27 at 09 13 09](https://github.com/user-attachments/assets/74ce02f4-cd9e-4422-8ed8-08bea49a3902)
+
 
 - CI/CD standardization at scale  
 - Kubernetes multi-tenant architecture  
