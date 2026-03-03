@@ -197,7 +197,6 @@ kubectl rollout status deployment/<service>
 ## Future Improvements
  
 - GitOps integration (ArgoCD / Flux)     
-- Canary and Blue/Green deployments  
 - Service mesh (Istio / Linkerd)  
 - External secrets integration
 
