@@ -140,7 +140,7 @@ bash
 docker build -t your-dockerhub-username/order-service:1.0.0 .
 docker push your-dockerhub-username/order-service:1.0.0
 
-FROM nginx:latest
+FROM nginx:alpine
 COPY index.html /usr/share/nginx/html
 
 ## Deployment Strategy
